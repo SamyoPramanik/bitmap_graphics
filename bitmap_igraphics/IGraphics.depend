@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1675340203 source:d:\igraphics\bitmap_igraphics\imain.cpp
+	"iGraphics.h"
+
+1646908332 d:\igraphics\bitmap_igraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+983683986 d:\igraphics\bitmap_igraphics\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1273856020 d:\igraphics\bitmap_igraphics\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
